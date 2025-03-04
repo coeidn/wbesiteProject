@@ -1,0 +1,57 @@
+#header
+{
+    background-color: blue;
+    padding: 15px 0;
+}
+#header h4
+{
+    color: white;
+}
+#header button
+{
+    float: right;
+}
+#footer 
+{
+    background-color: blue;
+    padding: 10px 0;
+}
+#footer h5
+{
+    color: white;
+    text-align: center;
+}
+#mid h3,h4{
+    text-align: center;
+}
+#mid table tr td
+{
+    font-size: 12px;
+}
+#mid table tr th
+{
+    font-size: 15px;
+}
+#mid .btn-danger
+{
+    font-size: 13px;
+}
+#mid .btn-dark
+{
+    font-size: 13px;
+}
+#mid .btn-success
+{
+    font-size: 13px;
+}
+#mid .bi-pencil-fill
+{
+    font-size: 25px;
+    color: black;
+    margin-left: 10px;
+}
+#mid .bi-trash3-fill
+{
+    font-size: 25px;
+    color: black;
+}
